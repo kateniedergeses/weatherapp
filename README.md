@@ -1,3 +1,10 @@
+####CODE CREDIT!#####
+This project was created to help solidify my REACT skills after completing a Coursera course.
+I followed an online tutorial by Clint Briley published at https://www.youtube.com/watch?v=UjeXpct3p7M.
+Built on 7/13/23.  I learned a lot and had a lot of fun!  Thanks Clint!
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
